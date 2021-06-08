@@ -175,7 +175,6 @@ int main(int argc, char *argv[]) {
 	for(i = 0; i < h; i++) {
 		for(j = 0; j < w; j++) {
 			fprintf(out, "%d %d %d ", in[i][j].r, in[i][j].g, in[i][j].b);
-			//fprintf(out, "%d %d %d ", bw[i][j], bw[i][j], bw[i][j]);
 		}
 	}
 	fclose(img);

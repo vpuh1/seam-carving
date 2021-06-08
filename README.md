@@ -19,6 +19,6 @@ After that run:
 You can find some sample in `img` folder.
 ### Example
 Original image:
-![original]("img/1.ppm")
+![original](img/1.ppm)
 After removing 200 seams:
-![without 200 seams]("img/1_200seams.ppm")
+![without 200 seams](img/1_200seams.ppm)

@@ -16,7 +16,7 @@ After that run:
 ./seam <number of seams to delete> <input image name> <output image name>
 ```
 ### Samples
-You can find some sample in `img` folder.
+You can find some samples in `img` folder.
 ### Example
 Original image:
 ![original](img/1.jpg)  
